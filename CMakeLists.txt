@@ -5,3 +5,4 @@ set(CMAKE_CXX_STANDARD 14)
 
 add_executable(offer16 offer16/offer16.cpp)
 add_executable(offer17 offer17/offer17.cpp)
+add_executable(offer18 offer18/offer18.cpp)
