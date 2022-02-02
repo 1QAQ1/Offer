@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 3.21)
-project(Offer)
+project(offer33)
 
 set(CMAKE_CXX_STANDARD 14)
 
@@ -19,3 +19,5 @@ add_executable(offer30 offer30/offer30.cpp)
 add_executable(offer31 offer31/offer31.cpp)
 add_executable(offer32_2 offer32_2/offer32_2.cpp)
 add_executable(offer32_3 offer32_3/offer32_3.cpp)
+add_executable(offer33 offer33/offer33.cpp)
+add_executable(offer34 offer34/offer34.cpp)
