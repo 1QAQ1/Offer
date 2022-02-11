@@ -41,3 +41,4 @@ add_executable(offer34 offer34/offer34.cpp)
 
 add_executable(offer35 offer35/offer35.cpp)
 add_executable(offer36 offer36/offer36.cpp)
+add_executable(offer37 offer37/offer37.cpp)
