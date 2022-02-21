@@ -116,7 +116,7 @@ int main()
         cout<<tree_str[i]<<" ";
     }
 
-    TreeNode* sad = s.deserialize(tree_str);
+    TreeNode *sad = s.deserialize(tree_str);
 
     s.showtree(sad);
 }
