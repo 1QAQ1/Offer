@@ -6,3 +6,4 @@
 *.iml
 out
 gen
+!/meituan/meituan.cpp
