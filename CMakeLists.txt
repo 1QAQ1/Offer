@@ -30,15 +30,6 @@ add_executable(offer32_2 offer32/offer32_2/offer32_2.cpp)
 add_executable(offer32_3 offer32/offer32_3/offer32_3.cpp)
 add_executable(offer33 offer33/offer33.cpp)
 add_executable(offer34 offer34/offer34.cpp)
-
-
-
-
-
-
-
-
-
 add_executable(offer35 offer35/offer35.cpp)
 add_executable(offer36 offer36/offer36.cpp)
 add_executable(offer37 offer37/offer37.cpp)
@@ -53,4 +44,6 @@ add_executable(offer52 offer52/offer52.cpp)
 add_executable(offer55 offer55/offer55_1.cpp)
 add_executable(offer55_1 offer55/offer55_1.cpp)
 add_executable(offer55_2 offer55/offer55_2.cpp)
-add_executable(meituan meituan/meituan.cpp)
+add_executable(offer56 offer56/offer56_1.cpp)
+add_executable(offer56_2 offer56/offer56_2.cpp)
+add_executable(offer57 offer57/offer57.cpp)
